@@ -1,0 +1,31 @@
+body {
+    background: lightgray;
+}
+img {
+    width: 20%;
+    border-radius: 50%;
+    box-shadow: 1px 1px 10px rgba(0,0,0,0.9);
+}
+
+h1 {
+    color: gray;
+    text-shadow: 2px 2px 2px rgba(0,0,0,0.5);
+}
+
+address {
+    font-weight: 600;
+    font-size: 1em;
+}
+
+#content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 120px 0px;
+    margin: 50px;
+    background-color: lightcoral;
+}
+
+#content div {
+    margin-left: 30px;
+}
